@@ -1,0 +1,3 @@
+Excel sheet: https://docs.google.com/spreadsheets/d/1gm7DWko1wRwBVh2vdKGEUkKoDwlSGKYY0Zh35Jp6VmU/edit?gid=0#gid=0
+Admin link : https://d-remind-admin-winngoo.vercel.app/auth
+user link  :https://d-remind-winngoo.vercel.app/register
